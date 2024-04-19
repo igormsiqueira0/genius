@@ -1,6 +1,9 @@
 # Genius para web
+*Utilizando Javascript puro*
 
-Genius é um jogo onde o jogador deve decorar uma sequência aleatória de botões para tentar reproduzi-la, a sequência e a velocidade vai aumentando conforme o jogador avança de nível.
+Genius é um jogo da década de 80 onde o jogador deve decorar uma sequência aleatória de botões para tentar reproduzi-la, a sequência e a velocidade vai aumentando conforme o jogador avança de nível.
+
+Fiz esse projeto para treinar lógica de programação.
 
 ## Como jogar
 
